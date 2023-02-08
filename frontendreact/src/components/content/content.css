@@ -1,0 +1,49 @@
+#delete-button:hover{
+    color:black;
+    background-color:transparent;
+}
+
+#delete-button{
+    color:white;
+    background-color:red;
+}
+
+#edit-button:hover{
+    border-color:#2897a9;
+    position: relative;
+    right: 100px;
+    position: relative;
+    left: -40px;
+    background-color:transparent;
+    color: black;
+}
+
+
+#edit-button{
+    border-color:#2897a9;
+    background-color:#2897a9;
+    color:white;
+    position: relative;
+    right: 100px;
+    position: relative;
+    left: -40px;
+}
+
+
+.tablecolor{
+    padding-top:10px;
+    margin-top: 40px;
+}
+
+.headingcol{
+    padding-bottom:20px;
+}
+
+.table tr:nth-child(odd) {
+    background-color: #edeff0;
+}
+
+.nav-link{
+    position:relative;
+    left:20px;
+}
